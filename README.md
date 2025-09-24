@@ -126,48 +126,6 @@ flowchart TD
 - 🟡 **Amarelo**: Decisões de cautela (suspeito)
 - 🔴 **Vermelho**: Decisões restritivas (bloquear)
 
-## 🔍 O que o Sistema Analisa na Investigação Completa?
-
-Quando precisa fazer uma **análise profunda**, o Lavandowski examina **TUDO** sobre o cliente:
-
-### 💰 **Movimentações Financeiras**
-- **Volume de transações**: Quanto dinheiro movimenta por mês
-- **Frequência**: Quantas operações faz por dia/semana
-- **Horários**: Se transaciona em horários estranhos (madrugada, feriados)
-- **Valores**: Se há transações muito altas ou muito baixas suspeitas
-- **Padrões**: Se o comportamento mudou drasticamente
-
-### 🏢 **Perfil do Negócio**
-- **Compatibilidade**: Se as transações fazem sentido com o tipo de empresa
-- **Faturamento declarado**: Se movimenta mais dinheiro do que deveria
-- **Atividade econômica**: Se o ramo de negócio é de alto risco
-- **Localização**: Se opera em regiões problemáticas
-
-### 👥 **Relacionamentos e Conexões**
-- **Pessoas ligadas**: Se tem sócios ou parentes em listas restritivas
-- **Empresas relacionadas**: Se tem conexão com outras empresas suspeitas
-- **Políticos**: Se tem ligação com pessoas politicamente expostas (PEPs)
-- **Histórico familiar**: Se familiares têm problemas com a justiça
-
-### 🚨 **Histórico de Problemas**
-- **Processos anteriores**: Se já teve outros problemas judiciais
-- **Listas restritivas**: Se aparece em listas de sanções internacionais
-- **Órgãos reguladores**: Se foi multado por BACEN, CVM, etc.
-- **Análises passadas**: Se já foi considerado suspeito antes
-
-### 🌍 **Operações Internacionais**
-- **Países de risco**: Se transaciona com países problemáticos
-- **Moedas estrangeiras**: Se usa muito cartão no exterior
-- **Transferências**: Se recebe/envia dinheiro do/para exterior
-- **Padrões geográficos**: Se as operações fazem sentido geograficamente
-
-### 🎯 **Indicadores de Lavagem de Dinheiro**
-- **Estruturação**: Se quebra transações grandes em várias pequenas
-- **Smurfing**: Se usa várias contas para movimentar dinheiro
-- **Operações circulares**: Se o dinheiro "dá voltas" sem propósito
-- **Cash intensivo**: Se usa muito dinheiro em espécie
-- **Velocidade**: Se o dinheiro entra e sai muito rapidamente
-
 ## 💡 Por que Duas Decisões em Casos Suspeitos?
 
 Quando o cliente é considerado **suspeito** (níveis 7-10), o sistema:
